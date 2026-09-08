@@ -46,5 +46,11 @@ I worked with a sales dataset, cleaned and transformed the data, and designed a 
 ### Product Analysis
 ![Product Analysis](product.png)
 
+### Product Matrix
+![Product Matrix](product_matrix.png)
+
+### Data Model (Star Schema)
+![Star Schema](schema.png)
+
 ## Power BI File
 [Download the PBIX file](Krish_portfolio.pbix)
