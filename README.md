@@ -21,3 +21,14 @@ The project analyzes sales performance, customer behavior, and product insights 
 - Power Query
 - DAX
 - Data Modeling
+
+## Screenshots
+
+### Sales Analysis
+![Sales Analysis](sales.png)
+
+### Customer Analysis
+![Customer Analysis](customer.png)
+
+### Product Analysis
+![Product Analysis](product.png)
