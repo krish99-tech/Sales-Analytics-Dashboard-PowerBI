@@ -32,3 +32,6 @@ The project analyzes sales performance, customer behavior, and product insights 
 
 ### Product Analysis
 ![Product Analysis](product.png)
+
+## Power BI File
+[Download the PBIX file](Krish_portfolio.pbix)
